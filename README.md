@@ -1,4 +1,21 @@
 # HW05-workdayscheduler
+### Overview
+The purpose of this assignement 
+
+### Used applications
+Moment
+Bootstrap
+
+
+### Screenshot
+![screenshot](/Assets/workdayscheduler.png?raw=true)
+
+
+
+### Links
+Live app - https://awsiegfried.github.io/HW05-workdayscheduler/
+
+Github profile - https://github.com/AWSiegfried/HW05-workdayscheduler 
 
 ### Psuedocode
 0. Open calendar to current day (normal biz hours, prob 6am-8pm)
