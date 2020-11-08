@@ -10,15 +10,16 @@ Things I would add if had more time or wanted to use this for personal use:
 
 ### Used applications
 Moment - https://momentjs.com/
-Bootstrap - https://getbootstrap.com/docs/4.5/getting-started/introduction/
 
-### Screenshot
-![screenshot](/Assets/workdayscheduler.png?raw=true)
+Bootstrap - https://getbootstrap.com/docs/4.5/getting-started/introduction/
 
 ### Links
 Live app - https://awsiegfried.github.io/HW05-workdayscheduler/
 
 Github profile - https://github.com/AWSiegfried/HW05-workdayscheduler 
+
+### Screenshot
+![screenshot](/Assets/workdayscheduler.png?raw=true)
 
 ### Psuedocode
 0. Open calendar to current day (normal biz hours, prob 6am-8pm)
