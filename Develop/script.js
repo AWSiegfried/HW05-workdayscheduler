@@ -67,7 +67,9 @@ $(document).ready(function() {
     $(".saveBtn").on("click", function() {
         console.log($(this).parent());
         console.log($(this).siblings("input"));
+
         //Filter - If returns true, stays in the array.  If returns false, is removed from the array.
+        var savedTodos = JSON.parse(localStorage.getItem("savedTodos")) || [];
         var filteredSavedTodos = savedTodos.filter(function(element) {
             return element.hour !== $(this).parent().data("hour")
         });
